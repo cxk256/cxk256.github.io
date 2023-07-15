@@ -1,0 +1,331 @@
+{
+  "name": "1.20.1 Forge",
+  "author": "8848",
+  "version": "1.0",
+  "description": "1",
+  "fileApi": "https://cxk256.github.io/1021FORGE",
+  "files": [
+    {
+      "path": "mods/AbsolutelyUnbreakable-2.0.1-1.20.1.jar",
+      "hash": "0465dee428efc927a420c3760428cd34336502e1"
+    },
+    {
+      "path": "mods/ad_astra-forge-1.20.1-1.15.1.jar",
+      "hash": "d036f639edeba8945a797bbf64e06415445e4273"
+    },
+    {
+      "path": "mods/AirHop-v8.0.0-1.20.1-Forge.jar",
+      "hash": "c64388e2abe6f9506df209bb8dcdcb9fd3357fc8"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.5.jar",
+      "hash": "50a11b142e31a499e2db2866df4ddbfa684347e9"
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.0.jar",
+      "hash": "7688bc34a0b222d65c0d7e1e959cc78bcb6eb989"
+    },
+    {
+      "path": "mods/architectury-9.1.10-forge.jar",
+      "hash": "50801625f3d86513893c69fe3528b33bd833725c"
+    },
+    {
+      "path": "mods/AttributeFix-Forge-1.20-20.0.2.jar",
+      "hash": "8c5873f105a15a8fabda9229054ee396873b9f0c"
+    },
+    {
+      "path": "mods/beautifiedchatclient-1.20.1-2.2.jar",
+      "hash": "ee65e8b31d445cd80c208cc421bece0c2d07f501"
+    },
+    {
+      "path": "mods/BetterModsButton-v8.0.1-1.20.1-Forge.jar",
+      "hash": "1d0771a62c06a10df87316a6fbcb2a3e08c009ce"
+    },
+    {
+      "path": "mods/BetterThanMending-1.7.2.jar",
+      "hash": "d54e7e41e992ccc8038a9ecc8dd6ee666f659f8e"
+    },
+    {
+      "path": "mods/BetterTridents-v8.0.0-1.20.1-Forge.jar",
+      "hash": "9c3e3b1cd40c44f7d86c09960a68904eb03d484d"
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.1.2.jar",
+      "hash": "240e3d10dc58f00eedeb524212f45f3e4aeba2a3"
+    },
+    {
+      "path": "mods/bottledair-1.20.1-2.1.jar",
+      "hash": "7d0d2ffa8c7e48bb3ba36f954d39076142864993"
+    },
+    {
+      "path": "mods/chat_heads-0.10.16-forge-1.20.jar",
+      "hash": "5538a1b7991b6b2d15c5fb0d9c8e12228504671f"
+    },
+    {
+      "path": "mods/citadel-2.4.2-1.20.1.jar",
+      "hash": "cd87e26ab54ed232d2b40b1540637229f510192d"
+    },
+    {
+      "path": "mods/cloth-config-11.1.106-forge.jar",
+      "hash": "b6f17b52c469c5ca27c9e90abdb0ecc0be16149d"
+    },
+    {
+      "path": "mods/collective-1.20.1-6.65.jar",
+      "hash": "ed906fb381167f195ae28aabf3d94363f7f44697"
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.1.jar",
+      "hash": "d604ce505fedb75ff9c291fbfb0f02a48f826cae"
+    },
+    {
+      "path": "mods/create-1.20.1-0.5.1.d.jar",
+      "hash": "26c3f76dbba950b58c63044ae6717d0d33fa0f01"
+    },
+    {
+      "path": "mods/creeperoverhaul-3.0.1-forge.jar",
+      "hash": "2266b4ba2e4443b14f8107f7c89703e1e9c5b5ec"
+    },
+    {
+      "path": "mods/doapi-1.2.3-forge.jar",
+      "hash": "305d70dd74ff80cf36615ae792162978155981fc"
+    },
+    {
+      "path": "mods/EasyShulkerBoxes-v8.0.0-1.20.1-Forge.jar",
+      "hash": "4f1089f7e1cfaa9257f88403acd623cfbe4e9b3b"
+    },
+    {
+      "path": "mods/EnchantingInfuser-v8.0.0-1.20.1-Forge.jar",
+      "hash": "19c07ecce4e08bdb9236df15659ec5181bd8b3c9"
+    },
+    {
+      "path": "mods/endportalrecipe-1.20.1-5.0.jar",
+      "hash": "8895360f075de8500a51a9d959edea083b50389f"
+    },
+    {
+      "path": "mods/ends_delight-1.20.1-1.0.jar",
+      "hash": "f22b5eb939f920a8d54a541fef7e095a96e20b72"
+    },
+    {
+      "path": "mods/extractinator-forge-1.20-2.2.0.jar",
+      "hash": "fa69eee2687ac54e1ff5e9f755c085ec0e5d3d14"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.2a.jar",
+      "hash": "fbf2996262cde2b8626094da17b68fdeb259bfba"
+    },
+    {
+      "path": "mods/findme-3.1.0-forge.jar",
+      "hash": "8b6a1bddae887ba870e625490f65d44ce08b6f4f"
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.1.2.jar",
+      "hash": "7b7352931a04c4aad7571f93955b7a205e2c894f"
+    },
+    {
+      "path": "mods/ftb-ultimine-forge-2001.1.2.jar",
+      "hash": "e886e76d20c1cbf3e7a308a28e7eda2cae3af6fa"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.2.1.jar",
+      "hash": "42ce97322bca00623681acc99fbb86ec713c6b77"
+    },
+    {
+      "path": "mods/I18nUpdateMod-3.5.0-all.jar",
+      "hash": "dd8b7ed6ab74dca90dfbd7243c1d2099dc538a9a"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.6.jar",
+      "hash": "66f9e2959b291b6a418a012ee3621320b92719e1"
+    },
+    {
+      "path": "mods/invhud.forge.1.20.1-3.4.14.jar",
+      "hash": "51522517b96086090a5f9eee6ad0ecc0c405f38d"
+    },
+    {
+      "path": "mods/ironfurnaces-1.20-3.9.0.jar",
+      "hash": "c9143efbd05ab0c1ff3727248ab82eefa7408d3e"
+    },
+    {
+      "path": "mods/Jade-1.20-forge-11.1.4.jar",
+      "hash": "62a9d3320f12c172e259ab683f6a87910f46212f"
+    },
+    {
+      "path": "mods/justzoom_forge_1.0.2_MC_1.20.1.jar",
+      "hash": "016cb38a9e59c95392a25da8f6f19d337f80360a"
+    },
+    {
+      "path": "mods/konkrete_forge_1.6.1-2_MC_1.20.jar",
+      "hash": "6714da21ad7a733a1376a186d5248fd06cd53f3b"
+    },
+    {
+      "path": "mods/kotlinforforge-4.4.0-all.jar",
+      "hash": "587b252c91c9bd802ff3fd5f2d576c9ddb663425"
+    },
+    {
+      "path": "mods/letsdo-vinery-forge-1.4.0.jar",
+      "hash": "e4604fee041295f4716c9a5a2bc3c350604331df"
+    },
+    {
+      "path": "mods/libIPN-forge-1.20-3.0.2.jar",
+      "hash": "4082afba9038cf0ff52671b2fbe390304eba90e5"
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-1.16-1.20.1.jar",
+      "hash": "aefa8c65d25fa568c03418433dee9adf359b5058"
+    },
+    {
+      "path": "mods/maturidelight-1.20.1-1.0.0.jar",
+      "hash": "7f37807bcf13c36fa01c1c9a8b32f7a67b7fc474"
+    },
+    {
+      "path": "mods/mcwifipnp-1.6.5-1.20-forge.jar",
+      "hash": "b1958d599cb808230393613a1213c3243bf92624"
+    },
+    {
+      "path": "mods/moonlight-1.20-2.6.1-forge.jar",
+      "hash": "5f8a3c12f5fe3638bb76fa82ab43d794e249f0a6"
+    },
+    {
+      "path": "mods/NBTac-FORGE-1.20.1-1.1.2.jar",
+      "hash": "309d3490e749899c074b8a2e1cbf5601cfea19f0"
+    },
+    {
+      "path": "mods/nbtedit-1.20.1-4.4.1-release-forge.jar",
+      "hash": "b4043238b1c7907f0b049bddf090a413a82b92b1"
+    },
+    {
+      "path": "mods/nutritiousmilk-1.20.1-3.1.jar",
+      "hash": "7b9066a66addbabfabbd89bccfd3a51c6c14e48c"
+    },
+    {
+      "path": "mods/oculus-mc1.20-1.6.4.jar",
+      "hash": "33cecf7bcb17a4cbcb23aed1993771e73f1f9307"
+    },
+    {
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.19.0.jar",
+      "hash": "bfbe2c431f4b5c39d2e927c8a89979553b6723e6"
+    },
+    {
+      "path": "mods/OverflowingBars-v8.0.0-1.20.1-Forge.jar",
+      "hash": "e6445bdd4fafa9c41bd70ed271cf87b8ab692eda"
+    },
+    {
+      "path": "mods/pamhc2crops-1.20-1.0.2.jar",
+      "hash": "4aff3fe4b8db55f30498f0210721a37b46c1b430"
+    },
+    {
+      "path": "mods/pamhc2foodcore-1.20-1.0.0.jar",
+      "hash": "5d5955bd1edde840cc1f7a0d3af23674002a485f"
+    },
+    {
+      "path": "mods/pamhc2foodextended-1.20-1.0.0.jar",
+      "hash": "3f6ff9a932830c3c97de4f8a3954140dcac28468"
+    },
+    {
+      "path": "mods/pamhc2trees-1.20-1.0.2.jar",
+      "hash": "3e4118f4649305f3940c412d20d6295d884900bf"
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-81-FORGE.jar",
+      "hash": "ac962914225ec045431b9c12618e296ca9cb3e22"
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.0.7-1.20.1-Forge.jar",
+      "hash": "89ad61b7347d985c5f5ff1ea3e09622ab5d1411b"
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20-2.0.0.jar",
+      "hash": "50866f3a26bc56694a77f9720474bcb912c509bf"
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.2.jar",
+      "hash": "2152ff85fd06549f755a603e9e255137d37e6201"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-12.0.630.jar",
+      "hash": "9a91c61ff2afec688f8cef29122eb9e2f5c72413"
+    },
+    {
+      "path": "mods/rubidium-0.6.5.jar",
+      "hash": "d2da2d5ba83056c1e68a94912a5da3ca992291c4"
+    },
+    {
+      "path": "mods/rubidium-extra-0.4.20+mc1.20-build.91.jar",
+      "hash": "09f0670de1e38b5494c3eaabfffa40125b5aa912"
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.1.jar",
+      "hash": "ec3c2d3919a72f72d562bb85cfcb76f57220c2f7"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.18.56.890.jar",
+      "hash": "79a24c3a96af93968517266c6c24987693b0c1d8"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-0.5.81.378.jar",
+      "hash": "f2fb70864dbcbb0a3fc8e64d01efd254c5e35a99"
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.20.1-0.8.43.558.jar",
+      "hash": "f4116c0cc26d59b0fc9910845a4d700db166ce2e"
+    },
+    {
+      "path": "mods/Stoneworks-v8.0.0-1.20.1-Forge.jar",
+      "hash": "bbb5849573ad63012a0e489eea822ab3d7563f5b"
+    },
+    {
+      "path": "mods/supplementaries-1.20-2.5.18.jar",
+      "hash": "89066165e67360c7e6fc02e37689d8d1b111dbd5"
+    },
+    {
+      "path": "mods/TextruesRubidiumOptions-1.0.0+mc1.20.jar",
+      "hash": "fe12baa8bc5c5078d4967ff823148be80bc8149f"
+    },
+    {
+      "path": "mods/ThirstRemade-1.0.3.jar",
+      "hash": "57deb0a322fca7f7cda49bb4405498c2a67b411d"
+    },
+    {
+      "path": "mods/TinySkeletons-v8.0.0-1.20.1-Forge.jar",
+      "hash": "317a4cf8aefdfaf8e89453cc43a293dc42b2f28d"
+    },
+    {
+      "path": "mods/TradingPost-v8.0.1-1.20.1-Forge.jar",
+      "hash": "3dbf355916610db7f5cabaa4acc6f55ec9b0b3fd"
+    },
+    {
+      "path": "mods/twilightdelight-2.0.1.jar",
+      "hash": "89a44b74c0166439c63dfb9b19c210c442103d3d"
+    },
+    {
+      "path": "mods/twilightforest-1.20.1-4.3.1740-universal.jar",
+      "hash": "4e126af176541a47022e77ab20592e6d238aecbd"
+    },
+    {
+      "path": "mods/UniversalEnchants-v8.0.0-1.20.1-Forge.jar",
+      "hash": "0cc9f85e09c04bb5fbd561985f004a518590378d"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.30.6_Forge_1.20.jar",
+      "hash": "af23fb441750d05d45050d951425964496be230e"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_23.5.0_Forge_1.20.jar",
+      "hash": "444cccaa202af6013bde5dc6ebfb06297f6de060"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
+      "hash": "61a149c1b2a3363c93037375796c80a5c104f6e2"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.1.14"
+    }
+  ]
+}
