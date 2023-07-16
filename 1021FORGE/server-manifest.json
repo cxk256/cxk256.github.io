@@ -1,7 +1,7 @@
 {
   "name": "1.20.1 Forge",
   "author": "8848",
-  "version": "1.0",
+  "version": "1.1",
   "description": "1",
   "fileApi": "https://cxk256.github.io/1021FORGE",
   "files": [
@@ -32,6 +32,10 @@
     {
       "path": "mods/AttributeFix-Forge-1.20-20.0.2.jar",
       "hash": "8c5873f105a15a8fabda9229054ee396873b9f0c"
+    },
+    {
+      "path": "mods/auto_third_person-forge-1.20.0-2.0.2.jar",
+      "hash": "04a8ca10caf550b177229d9f389879f25e991138"
     },
     {
       "path": "mods/beautifiedchatclient-1.20.1-2.2.jar",
@@ -86,12 +90,20 @@
       "hash": "2266b4ba2e4443b14f8107f7c89703e1e9c5b5ec"
     },
     {
+      "path": "mods/Croptopia-1.20.1-FORGE-2.3.2.jar",
+      "hash": "a2c5d15540a29db805689ea57c85c652301a3e83"
+    },
+    {
       "path": "mods/doapi-1.2.3-forge.jar",
       "hash": "305d70dd74ff80cf36615ae792162978155981fc"
     },
     {
       "path": "mods/EasyShulkerBoxes-v8.0.0-1.20.1-Forge.jar",
       "hash": "4f1089f7e1cfaa9257f88403acd623cfbe4e9b3b"
+    },
+    {
+      "path": "mods/EchoChest-v8.0.0-1.20.1-Forge.jar",
+      "hash": "7e48b09ff8c15283fb7140827530dba372375c2b"
     },
     {
       "path": "mods/EnchantingInfuser-v8.0.0-1.20.1-Forge.jar",
@@ -104,6 +116,10 @@
     {
       "path": "mods/ends_delight-1.20.1-1.0.jar",
       "hash": "f22b5eb939f920a8d54a541fef7e095a96e20b72"
+    },
+    {
+      "path": "mods/ExplorersCompass-1.20.1-1.3.2-forge.jar",
+      "hash": "22fc140017d81894a3f9c4fc5cec4c22bee80dd4"
     },
     {
       "path": "mods/extractinator-forge-1.20-2.2.0.jar",
@@ -138,8 +154,12 @@
       "hash": "66f9e2959b291b6a418a012ee3621320b92719e1"
     },
     {
-      "path": "mods/invhud.forge.1.20.1-3.4.14.jar",
+      "path": "mods/invhud.forge.1.20.1-3.4.14.jar.old",
       "hash": "51522517b96086090a5f9eee6ad0ecc0c405f38d"
+    },
+    {
+      "path": "mods/invhud.forge.1.20.1-3.4.15.jar",
+      "hash": "d023b51ce04ecd0f29a4d640cafdb68548940311"
     },
     {
       "path": "mods/ironfurnaces-1.20-3.9.0.jar",
@@ -162,6 +182,10 @@
       "hash": "587b252c91c9bd802ff3fd5f2d576c9ddb663425"
     },
     {
+      "path": "mods/letsdo-beachparty-forge-1.1.0.jar",
+      "hash": "6e41734f9a6195c99060c1903697183f1de15423"
+    },
+    {
       "path": "mods/letsdo-vinery-forge-1.4.0.jar",
       "hash": "e4604fee041295f4716c9a5a2bc3c350604331df"
     },
@@ -174,16 +198,16 @@
       "hash": "aefa8c65d25fa568c03418433dee9adf359b5058"
     },
     {
-      "path": "mods/maturidelight-1.20.1-1.0.0.jar",
-      "hash": "7f37807bcf13c36fa01c1c9a8b32f7a67b7fc474"
-    },
-    {
       "path": "mods/mcwifipnp-1.6.5-1.20-forge.jar",
       "hash": "b1958d599cb808230393613a1213c3243bf92624"
     },
     {
       "path": "mods/moonlight-1.20-2.6.1-forge.jar",
       "hash": "5f8a3c12f5fe3638bb76fa82ab43d794e249f0a6"
+    },
+    {
+      "path": "mods/MoreWoolMod-1.20.1-1.0.2.jar",
+      "hash": "b5389a1c5aa84ef5d49ee8300e15db68c29fe03a"
     },
     {
       "path": "mods/NBTac-FORGE-1.20.1-1.1.2.jar",
@@ -230,6 +254,10 @@
       "hash": "ac962914225ec045431b9c12618e296ca9cb3e22"
     },
     {
+      "path": "mods/Potion-Blender-1.20-FORGE-1.1.0.jar",
+      "hash": "bfcfe89dccae4d78bdcb5e1c50d6b908e50a4629"
+    },
+    {
       "path": "mods/PuzzlesLib-v8.0.7-1.20.1-Forge.jar",
       "hash": "89ad61b7347d985c5f5ff1ea3e09622ab5d1411b"
     },
@@ -270,6 +298,10 @@
       "hash": "f4116c0cc26d59b0fc9910845a4d700db166ce2e"
     },
     {
+      "path": "mods/Stackable+Potions-forge-1.20.1-1.0.0.jar",
+      "hash": "dafaeba2507ffc8b301f62569044536e795b8404"
+    },
+    {
       "path": "mods/Stoneworks-v8.0.0-1.20.1-Forge.jar",
       "hash": "bbb5849573ad63012a0e489eea822ab3d7563f5b"
     },
@@ -306,16 +338,16 @@
       "hash": "0cc9f85e09c04bb5fbd561985f004a518590378d"
     },
     {
+      "path": "mods/whats-that-slot-forge-1.3.4+1.20.1.jar",
+      "hash": "aeecf54aa93f17a73709c7ea2ca6f4c4ea1caadc"
+    },
+    {
       "path": "mods/XaerosWorldMap_1.30.6_Forge_1.20.jar",
       "hash": "af23fb441750d05d45050d951425964496be230e"
     },
     {
       "path": "mods/Xaeros_Minimap_23.5.0_Forge_1.20.jar",
       "hash": "444cccaa202af6013bde5dc6ebfb06297f6de060"
-    },
-    {
-      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "61a149c1b2a3363c93037375796c80a5c104f6e2"
     }
   ],
   "addons": [
