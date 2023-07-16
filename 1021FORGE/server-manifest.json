@@ -1,13 +1,21 @@
 {
   "name": "1.20.1 Forge",
   "author": "8848",
-  "version": "1.1",
+  "version": "1.2",
   "description": "1",
   "fileApi": "https://cxk256.github.io/1021FORGE",
   "files": [
     {
+      "path": "config/alexsmobs.toml",
+      "hash": "a26a381761559d7dbcf57e2465e5ba48ffbe6de4"
+    },
+    {
       "path": "mods/AbsolutelyUnbreakable-2.0.1-1.20.1.jar",
       "hash": "0465dee428efc927a420c3760428cd34336502e1"
+    },
+    {
+      "path": "mods/Ad-Astra-Giselle-Addon-forge-1.20.1-5.2.jar",
+      "hash": "3287f29e697a4ed9da5c392715f7d864f570c613"
     },
     {
       "path": "mods/ad_astra-forge-1.20.1-1.15.1.jar",
@@ -20,6 +28,10 @@
     {
       "path": "mods/alexsmobs-1.22.5.jar",
       "hash": "50a11b142e31a499e2db2866df4ddbfa684347e9"
+    },
+    {
+      "path": "mods/anvilrestoration-1.20.1-2.0.jar",
+      "hash": "dfb86abd5f6ba445f2686b4d499e275d3816ca83"
     },
     {
       "path": "mods/appleskin-forge-mc1.20.1-2.5.0.jar",
@@ -98,6 +110,10 @@
       "hash": "305d70dd74ff80cf36615ae792162978155981fc"
     },
     {
+      "path": "mods/dummmmmmy-1.20-1.7.9.jar",
+      "hash": "e73225ff76f7fdc848d1939965150c46e9749a5a"
+    },
+    {
       "path": "mods/EasyShulkerBoxes-v8.0.0-1.20.1-Forge.jar",
       "hash": "4f1089f7e1cfaa9257f88403acd623cfbe4e9b3b"
     },
@@ -126,6 +142,10 @@
       "hash": "fa69eee2687ac54e1ff5e9f755c085ec0e5d3d14"
     },
     {
+      "path": "mods/extractpoison-1.20.1-3.1.jar",
+      "hash": "f6d28736c1d4d21604d8b222a95ea3a680da8dc5"
+    },
+    {
       "path": "mods/FarmersDelight-1.20.1-1.2.2a.jar",
       "hash": "fbf2996262cde2b8626094da17b68fdeb259bfba"
     },
@@ -146,16 +166,16 @@
       "hash": "42ce97322bca00623681acc99fbb86ec713c6b77"
     },
     {
+      "path": "mods/healingcampfire-1.20.1-5.1.jar",
+      "hash": "2da4c3606e9e7c971ba4b7c8a15ddb047a81538e"
+    },
+    {
       "path": "mods/I18nUpdateMod-3.5.0-all.jar",
       "hash": "dd8b7ed6ab74dca90dfbd7243c1d2099dc538a9a"
     },
     {
       "path": "mods/InventoryProfilesNext-forge-1.20-1.10.6.jar",
       "hash": "66f9e2959b291b6a418a012ee3621320b92719e1"
-    },
-    {
-      "path": "mods/invhud.forge.1.20.1-3.4.14.jar.old",
-      "hash": "51522517b96086090a5f9eee6ad0ecc0c405f38d"
     },
     {
       "path": "mods/invhud.forge.1.20.1-3.4.15.jar",
@@ -210,6 +230,10 @@
       "hash": "b5389a1c5aa84ef5d49ee8300e15db68c29fe03a"
     },
     {
+      "path": "mods/naturallychargedcreepers-1.20.1-3.2.jar",
+      "hash": "fa744a3cf3a3a0c66cc73bc7a468603885615f10"
+    },
+    {
       "path": "mods/NBTac-FORGE-1.20.1-1.1.2.jar",
       "hash": "309d3490e749899c074b8a2e1cbf5601cfea19f0"
     },
@@ -260,6 +284,10 @@
     {
       "path": "mods/PuzzlesLib-v8.0.7-1.20.1-Forge.jar",
       "hash": "89ad61b7347d985c5f5ff1ea3e09622ab5d1411b"
+    },
+    {
+      "path": "mods/randomsheepcolours-1.20.1-3.1.jar",
+      "hash": "27fb08a27c1b9d6d4ee997eeff32df4e819c4692"
     },
     {
       "path": "mods/resourcefulconfig-forge-1.20-2.0.0.jar",
@@ -342,6 +370,10 @@
       "hash": "aeecf54aa93f17a73709c7ea2ca6f4c4ea1caadc"
     },
     {
+      "path": "mods/wooltweaks-1.20.1-3.1.jar",
+      "hash": "5cf1c2f4e958e8d89d6c813a88a5ce11569b359a"
+    },
+    {
       "path": "mods/XaerosWorldMap_1.30.6_Forge_1.20.jar",
       "hash": "af23fb441750d05d45050d951425964496be230e"
     },
@@ -357,7 +389,7 @@
     },
     {
       "id": "forge",
-      "version": "47.1.14"
+      "version": "47.1.23"
     }
   ]
 }
