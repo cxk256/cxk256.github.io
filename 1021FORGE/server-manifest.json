@@ -1,14 +1,10 @@
 {
   "name": "1.20.1 Forge",
   "author": "8848",
-  "version": "1.2",
-  "description": "1",
+  "version": "1.0",
+  "description": "",
   "fileApi": "https://cxk256.github.io/1021FORGE",
   "files": [
-    {
-      "path": "config/alexsmobs.toml",
-      "hash": "a26a381761559d7dbcf57e2465e5ba48ffbe6de4"
-    },
     {
       "path": "mods/AbsolutelyUnbreakable-2.0.1-1.20.1.jar",
       "hash": "0465dee428efc927a420c3760428cd34336502e1"
@@ -42,8 +38,8 @@
       "hash": "50801625f3d86513893c69fe3528b33bd833725c"
     },
     {
-      "path": "mods/AttributeFix-Forge-1.20-20.0.2.jar",
-      "hash": "8c5873f105a15a8fabda9229054ee396873b9f0c"
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.1.jar",
+      "hash": "a7af690dfa3485ac239b9a8131ed00f62b66f4e6"
     },
     {
       "path": "mods/auto_third_person-forge-1.20.0-2.0.2.jar",
@@ -90,8 +86,8 @@
       "hash": "ed906fb381167f195ae28aabf3d94363f7f44697"
     },
     {
-      "path": "mods/Controlling-forge-1.20.1-12.0.1.jar",
-      "hash": "d604ce505fedb75ff9c291fbfb0f02a48f826cae"
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "hash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
     },
     {
       "path": "mods/create-1.20.1-0.5.1.d.jar",
@@ -112,6 +108,10 @@
     {
       "path": "mods/dummmmmmy-1.20-1.7.9.jar",
       "hash": "e73225ff76f7fdc848d1939965150c46e9749a5a"
+    },
+    {
+      "path": "mods/dynamiclightsreforged-1.20.1_v1.5.0.jar",
+      "hash": "31893181662e7429cd92571fd83d827270df6c04"
     },
     {
       "path": "mods/EasyShulkerBoxes-v8.0.0-1.20.1-Forge.jar",
@@ -214,8 +214,8 @@
       "hash": "4082afba9038cf0ff52671b2fbe390304eba90e5"
     },
     {
-      "path": "mods/L_Enders_Cataclysm-1.16-1.20.1.jar",
-      "hash": "aefa8c65d25fa568c03418433dee9adf359b5058"
+      "path": "mods/L_Enders_Cataclysm-1.17-1.20.1(Latest Forge Only).jar",
+      "hash": "22576540a32457d550998a9c830517e8f36c25c1"
     },
     {
       "path": "mods/mcwifipnp-1.6.5-1.20-forge.jar",
@@ -342,8 +342,8 @@
       "hash": "fe12baa8bc5c5078d4967ff823148be80bc8149f"
     },
     {
-      "path": "mods/ThirstRemade-1.0.3.jar",
-      "hash": "57deb0a322fca7f7cda49bb4405498c2a67b411d"
+      "path": "mods/ThirstRemade-1.0.4.jar",
+      "hash": "fab57061833be055d522f9c5306dc91b5838986e"
     },
     {
       "path": "mods/TinySkeletons-v8.0.0-1.20.1-Forge.jar",
@@ -380,6 +380,10 @@
     {
       "path": "mods/Xaeros_Minimap_23.5.0_Forge_1.20.jar",
       "hash": "444cccaa202af6013bde5dc6ebfb06297f6de060"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
+      "hash": "3d98bea6ff678bf7e5f6bdfca3db613a5abb10b1"
     }
   ],
   "addons": [
