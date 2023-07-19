@@ -42,6 +42,10 @@
       "hash": "a7af690dfa3485ac239b9a8131ed00f62b66f4e6"
     },
     {
+      "path": "mods/automaticoperator-1.20.1-1.0.jar",
+      "hash": "00457a1e5aba04ad29fd25c341c8cabab0e246aa"
+    },
+    {
       "path": "mods/auto_third_person-forge-1.20.0-2.0.2.jar",
       "hash": "04a8ca10caf550b177229d9f389879f25e991138"
     },
@@ -68,6 +72,10 @@
     {
       "path": "mods/bottledair-1.20.1-2.1.jar",
       "hash": "7d0d2ffa8c7e48bb3ba36f954d39076142864993"
+    },
+    {
+      "path": "mods/campfirespawnandtweaks-1.20.1-3.4.jar",
+      "hash": "dc58859ad87df0b8cb2f43d867945dfd5096e2f6"
     },
     {
       "path": "mods/chat_heads-0.10.16-forge-1.20.jar",
@@ -102,8 +110,20 @@
       "hash": "a2c5d15540a29db805689ea57c85c652301a3e83"
     },
     {
+      "path": "mods/cyclepaintings-1.20.1-3.2.jar",
+      "hash": "9a87dd19fc35b46bfeddded637d1d45c6791f21f"
+    },
+    {
+      "path": "mods/despawningeggshatch-1.20.1-4.1.jar",
+      "hash": "50b62236805d2122d4d8b8453eb94efe201d59de"
+    },
+    {
       "path": "mods/doapi-1.2.3-forge.jar",
       "hash": "305d70dd74ff80cf36615ae792162978155981fc"
+    },
+    {
+      "path": "mods/dragondropselytra-1.20.1-3.0.jar",
+      "hash": "ad9bb1ea9007959b3605c3918edb16c5e146eaca"
     },
     {
       "path": "mods/dummmmmmy-1.20-1.7.9.jar",
@@ -162,12 +182,40 @@
       "hash": "e886e76d20c1cbf3e7a308a28e7eda2cae3af6fa"
     },
     {
+      "path": "mods/fullbrightnesstoggle-1.20.1-3.0.jar",
+      "hash": "f7228ab1b0fd3a972e888b9f22b0778eaf67180d"
+    },
+    {
+      "path": "mods/furnacerecycle-1.20.1-2.0.jar",
+      "hash": "101522a41ca824de2a9dd9a144e53d549402e1c5"
+    },
+    {
       "path": "mods/geckolib-forge-1.20.1-4.2.1.jar",
       "hash": "42ce97322bca00623681acc99fbb86ec713c6b77"
     },
     {
+      "path": "mods/grabbymobs-1.20.1-1.1.jar",
+      "hash": "65be006c3d24db6516a150d04610e875b37617a8"
+    },
+    {
+      "path": "mods/guiclock-1.20.1-4.2.jar",
+      "hash": "5c0374335ccc0a5e7caa3bdf904466cf207c25ac"
+    },
+    {
+      "path": "mods/guifollowers-1.20.1-3.2.jar",
+      "hash": "ccf4c4726bcc65f6da9b0d766290951c13e2ae72"
+    },
+    {
+      "path": "mods/handoveryouritems-1.20.1-3.0.jar",
+      "hash": "8ea2f5ad62e81d69ca8d8f44c12a6f0745840a50"
+    },
+    {
       "path": "mods/healingcampfire-1.20.1-5.1.jar",
       "hash": "2da4c3606e9e7c971ba4b7c8a15ddb047a81538e"
+    },
+    {
+      "path": "mods/healingsoup-1.20.1-4.1.jar",
+      "hash": "daf805c94f06e5bd7cc757c17f121524731ac41a"
     },
     {
       "path": "mods/I18nUpdateMod-3.5.0-all.jar",
@@ -188,6 +236,10 @@
     {
       "path": "mods/Jade-1.20-forge-11.1.4.jar",
       "hash": "62a9d3320f12c172e259ab683f6a87910f46212f"
+    },
+    {
+      "path": "mods/justmobheads-1.20.1-7.3.jar",
+      "hash": "3f16423c03a7c665c6e2d43e941a7da2476a0510"
     },
     {
       "path": "mods/justzoom_forge_1.0.2_MC_1.20.1.jar",
@@ -214,12 +266,12 @@
       "hash": "4082afba9038cf0ff52671b2fbe390304eba90e5"
     },
     {
-      "path": "mods/L_Enders_Cataclysm-1.17-1.20.1(Latest Forge Only).jar",
-      "hash": "22576540a32457d550998a9c830517e8f36c25c1"
-    },
-    {
       "path": "mods/mcwifipnp-1.6.5-1.20-forge.jar",
       "hash": "b1958d599cb808230393613a1213c3243bf92624"
+    },
+    {
+      "path": "mods/mineralchance-1.20.1-3.2.jar",
+      "hash": "424472d86003e209948a2924c4decfd837dab048"
     },
     {
       "path": "mods/moonlight-1.20-2.6.1-forge.jar",
@@ -228,6 +280,10 @@
     {
       "path": "mods/MoreWoolMod-1.20.1-1.0.2.jar",
       "hash": "b5389a1c5aa84ef5d49ee8300e15db68c29fe03a"
+    },
+    {
+      "path": "mods/nametagtweaks-1.20.1-3.0.jar",
+      "hash": "a4461fa188577035caa4ed0d7af8cc6dca020d4c"
     },
     {
       "path": "mods/naturallychargedcreepers-1.20.1-3.2.jar",
@@ -326,6 +382,10 @@
       "hash": "f4116c0cc26d59b0fc9910845a4d700db166ce2e"
     },
     {
+      "path": "mods/spyglass_improvements-1.4+mc1.20+forge.jar",
+      "hash": "6ebb36f0a6872c68e667c9298bfd7cdfcbf2c855"
+    },
+    {
       "path": "mods/Stackable+Potions-forge-1.20.1-1.0.0.jar",
       "hash": "dafaeba2507ffc8b301f62569044536e795b8404"
     },
@@ -366,6 +426,14 @@
       "hash": "0cc9f85e09c04bb5fbd561985f004a518590378d"
     },
     {
+      "path": "mods/villagebellrecipe-1.20.1-3.0.jar",
+      "hash": "e0552a3502e296b64317a11536536605141a7b8d"
+    },
+    {
+      "path": "mods/villagernames-1.20.1-5.2.jar",
+      "hash": "f10599f504a7ec7cce7d6c8c890b5525e27db481"
+    },
+    {
       "path": "mods/whats-that-slot-forge-1.3.4+1.20.1.jar",
       "hash": "aeecf54aa93f17a73709c7ea2ca6f4c4ea1caadc"
     },
@@ -383,7 +451,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "3d98bea6ff678bf7e5f6bdfca3db613a5abb10b1"
+      "hash": "b5199a25dd3a2a7b4f8c075b63242e8344b7d19b"
     }
   ],
   "addons": [
