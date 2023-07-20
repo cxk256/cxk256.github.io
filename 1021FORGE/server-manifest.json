@@ -3,7 +3,7 @@
   "author": "8848",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://cxk256.github.io/1021FORGE",
+  "fileApi": "https://dooki.link/1021FORGE",
   "files": [
     {
       "path": "mods/AbsolutelyUnbreakable-2.0.1-1.20.1.jar",
@@ -254,8 +254,16 @@
       "hash": "587b252c91c9bd802ff3fd5f2d576c9ddb663425"
     },
     {
+      "path": "mods/letsdo-bakery-forge-1.1.0.jar",
+      "hash": "d3b2e90befb0f2a1fed3c7831540e1d77ef2e351"
+    },
+    {
       "path": "mods/letsdo-beachparty-forge-1.1.0.jar",
-      "hash": "6e41734f9a6195c99060c1903697183f1de15423"
+      "hash": "ca13fcce366d9a2c367b60c79b41e214fb4fe3d9"
+    },
+    {
+      "path": "mods/letsdo-candlelight-forge-1.2.1-hotfix.jar",
+      "hash": "40136cab02f1a415f602d21a68a2dccfd5813007"
     },
     {
       "path": "mods/letsdo-vinery-forge-1.4.0.jar",
@@ -344,6 +352,10 @@
     {
       "path": "mods/randomsheepcolours-1.20.1-3.1.jar",
       "hash": "27fb08a27c1b9d6d4ee997eeff32df4e819c4692"
+    },
+    {
+      "path": "mods/repurposed_structures-7.0.0+1.20-forge.jar",
+      "hash": "0888aae4f61ed30ff2a86192fde3db6f6b1e3549"
     },
     {
       "path": "mods/resourcefulconfig-forge-1.20-2.0.0.jar",
@@ -451,7 +463,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "b5199a25dd3a2a7b4f8c075b63242e8344b7d19b"
+      "hash": "8ff235b81f1f48ea124041afb155f7ec66faed92"
     }
   ],
   "addons": [
@@ -461,7 +473,7 @@
     },
     {
       "id": "forge",
-      "version": "47.1.23"
+      "version": "47.1.36"
     }
   ]
 }
