@@ -6,8 +6,12 @@
   "fileApi": "https://dooki.link/1021FORGE",
   "files": [
     {
+      "path": "config/alexsmobs.toml",
+      "hash": "e5fc6a83adf42527dcddcba574de227d5476e73a"
+    },
+    {
       "path": "mods/AbsolutelyUnbreakable-2.0.1-1.20.1.jar",
-      "hash": "0465dee428efc927a420c3760428cd34336502e1"
+      "hash": "859f41ca95934dcda37e232b6a00ec9ccb46c928"
     },
     {
       "path": "mods/Ad-Astra-Giselle-Addon-forge-1.20.1-5.2.jar",
@@ -34,16 +38,16 @@
       "hash": "7688bc34a0b222d65c0d7e1e959cc78bcb6eb989"
     },
     {
+      "path": "mods/Aquaculture-1.20.1-2.5.0.jar",
+      "hash": "1aa5c02282bcb157d860f366a46e46f981e0a00b"
+    },
+    {
       "path": "mods/architectury-9.1.10-forge.jar",
       "hash": "50801625f3d86513893c69fe3528b33bd833725c"
     },
     {
       "path": "mods/AttributeFix-Forge-1.20.1-21.0.1.jar",
       "hash": "a7af690dfa3485ac239b9a8131ed00f62b66f4e6"
-    },
-    {
-      "path": "mods/automaticoperator-1.20.1-1.0.jar",
-      "hash": "00457a1e5aba04ad29fd25c341c8cabab0e246aa"
     },
     {
       "path": "mods/auto_third_person-forge-1.20.0-2.0.2.jar",
@@ -74,8 +78,12 @@
       "hash": "7d0d2ffa8c7e48bb3ba36f954d39076142864993"
     },
     {
-      "path": "mods/campfirespawnandtweaks-1.20.1-3.4.jar",
-      "hash": "dc58859ad87df0b8cb2f43d867945dfd5096e2f6"
+      "path": "mods/brickhopper-1.20.1-1.6.1.0.jar",
+      "hash": "a9dc9272679cd8a322ed31708445ee744d115b21"
+    },
+    {
+      "path": "mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "hash": "66d0ac56f3f6f1efbd6ed7b3cb4a48824d0585c0"
     },
     {
       "path": "mods/chat_heads-0.10.16-forge-1.20.jar",
@@ -103,7 +111,7 @@
     },
     {
       "path": "mods/creeperoverhaul-3.0.1-forge.jar",
-      "hash": "2266b4ba2e4443b14f8107f7c89703e1e9c5b5ec"
+      "hash": "0fb7e6939d14a22f87033117dcc7e458fc410cbf"
     },
     {
       "path": "mods/Croptopia-1.20.1-FORGE-2.3.2.jar",
@@ -118,12 +126,8 @@
       "hash": "9a87dd19fc35b46bfeddded637d1d45c6791f21f"
     },
     {
-      "path": "mods/despawningeggshatch-1.20.1-4.1.jar",
-      "hash": "50b62236805d2122d4d8b8453eb94efe201d59de"
-    },
-    {
-      "path": "mods/doapi-1.2.3-forge.jar",
-      "hash": "305d70dd74ff80cf36615ae792162978155981fc"
+      "path": "mods/doapi-1.2.5-forge.jar",
+      "hash": "54535f2c53fcc844f242098bd98ad3dab7e69788"
     },
     {
       "path": "mods/dragondropselytra-1.20.1-3.0.jar",
@@ -146,16 +150,12 @@
       "hash": "7e48b09ff8c15283fb7140827530dba372375c2b"
     },
     {
-      "path": "mods/EnchantingInfuser-v8.0.0-1.20.1-Forge.jar",
-      "hash": "19c07ecce4e08bdb9236df15659ec5181bd8b3c9"
+      "path": "mods/EnchantingInfuser-v8.0.1-1.20.1-Forge.jar",
+      "hash": "2e1949ee4c804f182ceb23a44d3971d86daf128d"
     },
     {
       "path": "mods/endportalrecipe-1.20.1-5.0.jar",
       "hash": "8895360f075de8500a51a9d959edea083b50389f"
-    },
-    {
-      "path": "mods/ends_delight-1.20.1-1.0.jar",
-      "hash": "f22b5eb939f920a8d54a541fef7e095a96e20b72"
     },
     {
       "path": "mods/ExplorersCompass-1.20.1-1.3.2-forge.jar",
@@ -190,10 +190,6 @@
       "hash": "f7228ab1b0fd3a972e888b9f22b0778eaf67180d"
     },
     {
-      "path": "mods/furnacerecycle-1.20.1-2.0.jar",
-      "hash": "101522a41ca824de2a9dd9a144e53d549402e1c5"
-    },
-    {
       "path": "mods/geckolib-forge-1.20.1-4.2.1.jar",
       "hash": "42ce97322bca00623681acc99fbb86ec713c6b77"
     },
@@ -218,10 +214,6 @@
       "hash": "2da4c3606e9e7c971ba4b7c8a15ddb047a81538e"
     },
     {
-      "path": "mods/healingsoup-1.20.1-4.1.jar",
-      "hash": "daf805c94f06e5bd7cc757c17f121524731ac41a"
-    },
-    {
       "path": "mods/I18nUpdateMod-3.5.0-all.jar",
       "hash": "dd8b7ed6ab74dca90dfbd7243c1d2099dc538a9a"
     },
@@ -240,6 +232,10 @@
     {
       "path": "mods/Jade-1.20-forge-11.1.4.jar",
       "hash": "62a9d3320f12c172e259ab683f6a87910f46212f"
+    },
+    {
+      "path": "mods/JRFTL-1.20.1-1.6.0.jar",
+      "hash": "d59e4ad527b59617aec6b49630c5b4b8cda385ad"
     },
     {
       "path": "mods/justmobheads-1.20.1-7.3.jar",
@@ -278,6 +274,14 @@
       "hash": "4082afba9038cf0ff52671b2fbe390304eba90e5"
     },
     {
+      "path": "mods/mavapi-1.1.1-mc1.20.jar",
+      "hash": "574cad4e950a85311b5c998396760e4e365266b5"
+    },
+    {
+      "path": "mods/mavm-1.2.4-mc1.20.jar",
+      "hash": "4d5665b2a28eeda47d5207fdeb7cd5c84f7bd88d"
+    },
+    {
       "path": "mods/mcwifipnp-1.6.5-1.20-forge.jar",
       "hash": "b1958d599cb808230393613a1213c3243bf92624"
     },
@@ -302,20 +306,16 @@
       "hash": "fa744a3cf3a3a0c66cc73bc7a468603885615f10"
     },
     {
-      "path": "mods/NBTac-FORGE-1.20.1-1.1.2.jar",
-      "hash": "309d3490e749899c074b8a2e1cbf5601cfea19f0"
-    },
-    {
       "path": "mods/nbtedit-1.20.1-4.4.1-release-forge.jar",
       "hash": "b4043238b1c7907f0b049bddf090a413a82b92b1"
     },
     {
-      "path": "mods/nutritiousmilk-1.20.1-3.1.jar",
-      "hash": "7b9066a66addbabfabbd89bccfd3a51c6c14e48c"
-    },
-    {
       "path": "mods/oculus-mc1.20-1.6.4.jar",
       "hash": "33cecf7bcb17a4cbcb23aed1993771e73f1f9307"
+    },
+    {
+      "path": "mods/OldCombatMod_1.20.x.jar.jar",
+      "hash": "5d5959a66631f68ca10ee09a6af533ca59546c73"
     },
     {
       "path": "mods/open-parties-and-claims-forge-1.20.1-0.19.0.jar",
@@ -344,6 +344,10 @@
     {
       "path": "mods/Patchouli-1.20.1-81-FORGE.jar",
       "hash": "ac962914225ec045431b9c12618e296ca9cb3e22"
+    },
+    {
+      "path": "mods/Pehkui-3.7.7+1.20.1-forge.jar",
+      "hash": "aac474630068db544c605de21d6150c31029dfff"
     },
     {
       "path": "mods/playertrackingcompass-1.20.1-3.0.jar",
@@ -438,16 +442,16 @@
       "hash": "3dbf355916610db7f5cabaa4acc6f55ec9b0b3fd"
     },
     {
-      "path": "mods/twilightdelight-2.0.1.jar",
-      "hash": "89a44b74c0166439c63dfb9b19c210c442103d3d"
-    },
-    {
       "path": "mods/twilightforest-1.20.1-4.3.1740-universal.jar",
       "hash": "4e126af176541a47022e77ab20592e6d238aecbd"
     },
     {
       "path": "mods/UniversalEnchants-v8.0.0-1.20.1-Forge.jar",
       "hash": "0cc9f85e09c04bb5fbd561985f004a518590378d"
+    },
+    {
+      "path": "mods/usefulhats-1.20.1-4.0.0.0.jar",
+      "hash": "78694bbb4fc66f0e97fb5ee19ac50eef1ab53d88"
     },
     {
       "path": "mods/villagebellrecipe-1.20.1-3.0.jar",
@@ -460,6 +464,14 @@
     {
       "path": "mods/whats-that-slot-forge-1.3.4+1.20.1.jar",
       "hash": "aeecf54aa93f17a73709c7ea2ca6f4c4ea1caadc"
+    },
+    {
+      "path": "mods/woodenhopper-1.20.1-1.5.1.0.jar",
+      "hash": "e46587f2523fa54435d513fc2856788dd4e948e6"
+    },
+    {
+      "path": "mods/woodenshears-1.20-1.4.0.1.jar",
+      "hash": "210400fa307f690057bccf4f6939c62363254691"
     },
     {
       "path": "mods/wooltweaks-1.20.1-3.1.jar",
@@ -483,7 +495,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "8d11aecf981bcdfee716a53da000f6c9105ab6f2"
+      "hash": "034f6dbcbadadebfde35fc5717694531c95d45a1"
     },
     {
       "path": "resourcepacks/Water+Improved.zip",
@@ -505,7 +517,7 @@
     },
     {
       "id": "forge",
-      "version": "47.1.16"
+      "version": "47.1.3"
     }
   ]
 }
