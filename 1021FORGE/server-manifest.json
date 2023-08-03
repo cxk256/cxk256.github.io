@@ -58,8 +58,8 @@
       "hash": "ee65e8b31d445cd80c208cc421bece0c2d07f501"
     },
     {
-      "path": "mods/BetterModsButton-v8.0.1-1.20.1-Forge.jar",
-      "hash": "1d0771a62c06a10df87316a6fbcb2a3e08c009ce"
+      "path": "mods/BetterModsButton-v8.0.2-1.20.1-Forge.jar",
+      "hash": "74eec3644288d57ad1c64fff2551ca82d0b959c0"
     },
     {
       "path": "mods/BetterThanMending-1.7.2.jar",
@@ -76,10 +76,6 @@
     {
       "path": "mods/bottledair-1.20.1-2.1.jar",
       "hash": "7d0d2ffa8c7e48bb3ba36f954d39076142864993"
-    },
-    {
-      "path": "mods/brickhopper-1.20.1-1.6.1.0.jar",
-      "hash": "a9dc9272679cd8a322ed31708445ee744d115b21"
     },
     {
       "path": "mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
@@ -146,10 +142,6 @@
       "hash": "4f1089f7e1cfaa9257f88403acd623cfbe4e9b3b"
     },
     {
-      "path": "mods/EchoChest-v8.0.0-1.20.1-Forge.jar",
-      "hash": "7e48b09ff8c15283fb7140827530dba372375c2b"
-    },
-    {
       "path": "mods/EnchantingInfuser-v8.0.1-1.20.1-Forge.jar",
       "hash": "2e1949ee4c804f182ceb23a44d3971d86daf128d"
     },
@@ -170,12 +162,8 @@
       "hash": "f6d28736c1d4d21604d8b222a95ea3a680da8dc5"
     },
     {
-      "path": "mods/FarmersDelight-1.20.1-1.2.2a.jar",
-      "hash": "fbf2996262cde2b8626094da17b68fdeb259bfba"
-    },
-    {
-      "path": "mods/findme-3.1.0-forge.jar",
-      "hash": "8b6a1bddae887ba870e625490f65d44ce08b6f4f"
+      "path": "mods/FarmersDelight-1.20.1-1.2.3.jar",
+      "hash": "115fe7a8f0fcce534915f5e35f96017d602cebe2"
     },
     {
       "path": "mods/ftb-library-forge-2001.1.2.jar",
@@ -230,8 +218,8 @@
       "hash": "c9143efbd05ab0c1ff3727248ab82eefa7408d3e"
     },
     {
-      "path": "mods/Jade-1.20-forge-11.1.4.jar",
-      "hash": "62a9d3320f12c172e259ab683f6a87910f46212f"
+      "path": "mods/Jade-1.20.1-forge-11.4.2.jar",
+      "hash": "560113eff88f743aa227852ee3b83be4b7a200f1"
     },
     {
       "path": "mods/JRFTL-1.20.1-1.6.0.jar",
@@ -318,36 +306,16 @@
       "hash": "5d5959a66631f68ca10ee09a6af533ca59546c73"
     },
     {
-      "path": "mods/open-parties-and-claims-forge-1.20.1-0.19.0.jar",
-      "hash": "bfbe2c431f4b5c39d2e927c8a89979553b6723e6"
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.19.1.jar",
+      "hash": "a09949b51a1bec7bf5e098b0502dbf2f94104b3c"
     },
     {
       "path": "mods/OverflowingBars-v8.0.0-1.20.1-Forge.jar",
       "hash": "e6445bdd4fafa9c41bd70ed271cf87b8ab692eda"
     },
     {
-      "path": "mods/pamhc2crops-1.20-1.0.2.jar",
-      "hash": "4aff3fe4b8db55f30498f0210721a37b46c1b430"
-    },
-    {
-      "path": "mods/pamhc2foodcore-1.20-1.0.0.jar",
-      "hash": "5d5955bd1edde840cc1f7a0d3af23674002a485f"
-    },
-    {
-      "path": "mods/pamhc2foodextended-1.20-1.0.0.jar",
-      "hash": "3f6ff9a932830c3c97de4f8a3954140dcac28468"
-    },
-    {
-      "path": "mods/pamhc2trees-1.20-1.0.2.jar",
-      "hash": "3e4118f4649305f3940c412d20d6295d884900bf"
-    },
-    {
       "path": "mods/Patchouli-1.20.1-81-FORGE.jar",
       "hash": "ac962914225ec045431b9c12618e296ca9cb3e22"
-    },
-    {
-      "path": "mods/Pehkui-3.7.7+1.20.1-forge.jar",
-      "hash": "aac474630068db544c605de21d6150c31029dfff"
     },
     {
       "path": "mods/playertrackingcompass-1.20.1-3.0.jar",
@@ -358,8 +326,8 @@
       "hash": "bfcfe89dccae4d78bdcb5e1c50d6b908e50a4629"
     },
     {
-      "path": "mods/PuzzlesLib-v8.0.7-1.20.1-Forge.jar",
-      "hash": "89ad61b7347d985c5f5ff1ea3e09622ab5d1411b"
+      "path": "mods/PuzzlesLib-v8.0.15-1.20.1-Forge.jar",
+      "hash": "834b7811b5b41003b03b76ccbf38d2f5aee374af"
     },
     {
       "path": "mods/randomsheepcolours-1.20.1-3.1.jar",
@@ -398,12 +366,12 @@
       "hash": "79a24c3a96af93968517266c6c24987693b0c1d8"
     },
     {
-      "path": "mods/sophisticatedcore-1.20.1-0.5.81.378.jar",
-      "hash": "f2fb70864dbcbb0a3fc8e64d01efd254c5e35a99"
+      "path": "mods/sophisticatedcore-1.20.1-0.5.83.395.jar",
+      "hash": "b1569b0856786a25cf4435042208266cf5e2e582"
     },
     {
-      "path": "mods/sophisticatedstorage-1.20.1-0.8.43.558.jar",
-      "hash": "f4116c0cc26d59b0fc9910845a4d700db166ce2e"
+      "path": "mods/sophisticatedstorage-1.20.1-0.8.44.571.jar",
+      "hash": "a75d9562ad1be699e4379256d843b204734b5b90"
     },
     {
       "path": "mods/spawnermod-1.20.1-1.9.3+Forge.jar",
@@ -416,10 +384,6 @@
     {
       "path": "mods/Stackable+Potions-forge-1.20.1-1.0.0.jar",
       "hash": "dafaeba2507ffc8b301f62569044536e795b8404"
-    },
-    {
-      "path": "mods/Stoneworks-v8.0.0-1.20.1-Forge.jar",
-      "hash": "bbb5849573ad63012a0e489eea822ab3d7563f5b"
     },
     {
       "path": "mods/supplementaries-1.20-2.5.18.jar",
@@ -442,8 +406,8 @@
       "hash": "3dbf355916610db7f5cabaa4acc6f55ec9b0b3fd"
     },
     {
-      "path": "mods/twilightforest-1.20.1-4.3.1740-universal.jar",
-      "hash": "4e126af176541a47022e77ab20592e6d238aecbd"
+      "path": "mods/twilightforest-1.20.1-4.3.1750-universal.jar",
+      "hash": "16ed81f40e57ab9e0702c250a66e2d13119fb3cb"
     },
     {
       "path": "mods/UniversalEnchants-v8.0.0-1.20.1-Forge.jar",
@@ -466,48 +430,16 @@
       "hash": "aeecf54aa93f17a73709c7ea2ca6f4c4ea1caadc"
     },
     {
-      "path": "mods/woodenhopper-1.20.1-1.5.1.0.jar",
-      "hash": "e46587f2523fa54435d513fc2856788dd4e948e6"
-    },
-    {
-      "path": "mods/woodenshears-1.20-1.4.0.1.jar",
-      "hash": "210400fa307f690057bccf4f6939c62363254691"
-    },
-    {
       "path": "mods/wooltweaks-1.20.1-3.1.jar",
       "hash": "5cf1c2f4e958e8d89d6c813a88a5ce11569b359a"
     },
     {
-      "path": "mods/XaerosWorldMap_1.30.6_Forge_1.20.jar",
-      "hash": "af23fb441750d05d45050d951425964496be230e"
+      "path": "mods/XaerosWorldMap_1.31.0_Forge_1.20.jar",
+      "hash": "ee98b2cb3726487974fde7ffa4a3d57e51a69176"
     },
     {
-      "path": "mods/Xaeros_Minimap_23.5.0_Forge_1.20.jar",
-      "hash": "444cccaa202af6013bde5dc6ebfb06297f6de060"
-    },
-    {
-      "path": "resourcepacks/Clear_water_and_lava_by_WhiterMv.1.0.zip",
-      "hash": "e94e550ea81b941bb11c482c4102c8af6fa8adf4"
-    },
-    {
-      "path": "resourcepacks/LowOnFire_1.20.1.zip",
-      "hash": "08db918bc8642b5501402fe25c9b6a8286a538b5"
-    },
-    {
-      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "034f6dbcbadadebfde35fc5717694531c95d45a1"
-    },
-    {
-      "path": "resourcepacks/Water+Improved.zip",
-      "hash": "e603e9d2bda6dc6f53ccd357b4329e1520915a7d"
-    },
-    {
-      "path": "resourcepacks/XKRD红显3.0for1.20.zip",
-      "hash": "eca5e17e9d80d8c8b7d4f1452dd6298af5ec85ed"
-    },
-    {
-      "path": "resourcepacks/Xray_Ultimate_1.20.1_v4.2.5.zip",
-      "hash": "326383a8ec25574ec9ac9a51dfb3d2c98459b010"
+      "path": "mods/Xaeros_Minimap_23.6.0_Forge_1.20.jar",
+      "hash": "052c61a64804e817c6f358605377455b884d9c35"
     }
   ],
   "addons": [
